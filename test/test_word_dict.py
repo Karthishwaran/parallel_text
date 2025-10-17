@@ -1,6 +1,6 @@
-from utils.positive_word import positive_words
-from utils.negative_word import negative_words
-from utils.neutral_word import neutral_words
+from utils.positive_words import positive_words
+from utils.negative_words import negative_words
+from utils.neutral import neutral_words
 
 sample_sentences = [
     "The concert was lively, but the seating was uncomfortable, and the snacks were overpriced.",
